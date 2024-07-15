@@ -1,8 +1,13 @@
-# Maven Builds Server
+# 🧰 TheBusyBiscuit's Maven Builds Server
 This is the repository of the backend for my builds-page.
 The page can be found here: https://thebusybiscuit.github.io/builds/
-
 This kinda serves as a "Continous Integration/Deployment" Service for Maven Projects which utilises static GitHub Pages.
+
+> [!WARNING]
+> **This project has been discontinued in October 2023.**<br/>
+> If you are loooking for a similar service I recommend taking a look at [blob-builds](https://github.com/WalshyDev/blob-builds) by [@WalshyDev](https://github.com/WalshyDev).<br/>
+> If you are looking for the hosted projects, take a look at the blob-builds website:<br/>
+> https://blob.build/
 
 # Status
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=TheBusyBiscuit_builds&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=TheBusyBiscuit_builds)
